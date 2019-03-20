@@ -4,7 +4,6 @@ import torch
 import numpy as np
 from collections import deque
 import matplotlib.pyplot as plt
-%matplotlib inline
 from dqn_agent import Agent
 import pickle
 
